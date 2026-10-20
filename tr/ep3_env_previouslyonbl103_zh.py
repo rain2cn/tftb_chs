@@ -1,0 +1,21 @@
+# ep3 tr/ep3_env_previouslyonbl103_zh.py
+T = {
+    'MARCUS': 'MARCUS',
+    'Back so soon?': '这么快就回来了？',
+    'Ok, ok, sit down, shut up and pay attention.': '好，好，坐下，闭嘴，专心听。',
+    'Out in the wasteland, the former middle manager discovered Handsome Jack riding shotgun in his brain while having a shotgun pointed at his head.': '在荒野中，这位前中层管理人员发现帅杰克正搭着他的脑车顺风车，而一把霰弹枪正顶着他的脑袋。',
+    'Hyperion had not forgotten about their renegade employees, and the native Pandoran wildlife was, uh, "just getting to know them."': '亥博龙并没有忘记他们那些叛逆的员工，而 潘多拉 本地的野生动物嘛，呃，“才刚认识他们”。',
+    'They escaped with their lives, but not much else.': '他们捡回一条命，但别的什么都没了。',
+    'A precarious position to be sure, but nothing compared to the con-artist.': '这处境确实岌岌可危，但比起那个骗术师还差得远。',
+    "The misfit Vault Hunters had discovered the secret location of the Gortys Project, but getting there wouldn't be easy.": '那群不合群的秘藏猎人发现了 戈提斯 计划的秘密地点，但要到那里可不容易。',
+    'The price on her head had attracted all kinds of thugs and gunmen.': '她头上的悬赏引来了各路暴徒和枪手。',
+    'Back on the trail of the Gortys Project, they found a wondrous, hidden city risen from the corpse of a ghost town.': '回到 戈提斯 计划的追踪之路上，他们发现了一座神奇的隐秘城市，从鬼镇的尸骸中拔地而起。',
+    "You'd think that would have been the end of her story, but it turns out that even legends struggle with the demands of a personal life.": '你以为那会是她故事的终点，结果却发现，即便是传奇人物，也会被私人生活的需求搞得焦头烂额。',
+    'Even a legendary Vault Hunter had joined the pursuit.': '甚至连一位传奇秘藏猎人也加入了追捕。',
+    'Once reunited and back on the trail of the Gortys Project, they brought to life a wondrous, hidden city from the corpse of a ghost town.': '重聚之后，他们再次踏上 戈提斯 计划的追踪之路，让一座从鬼镇尸骸中诞生的神奇隐秘城市重见天日。',
+    "You'd think that would have been the end of her story, but hey, you never know when a polite, reprogrammed killing machine will drop in and save the day!": '你以为那会是她故事的终点，但嘿，谁知道什么时候会有一个礼貌、被重新编程的杀人机器突然冒出来救场呢！',
+    'Taken hostage and forced to surrender the keys to the kingdom, they had to go all in on one last gamble.': '被劫为人质、被迫交出王国的钥匙，他们只能孤注一掷，赌上最后一把。',
+    'But unfortunately, their moment of awe and victory was to be the advantage of their opponents.': '但不幸的是，他们那敬畏与胜利的瞬间，反倒成了对手的优势。',
+    'This chapter of the story begins with the questionable choice to trust... the Pandoran hustler.': '这一章的故事，始于一个值得商榷的选择——去信任……那位 潘多拉 骗子。',
+    'This chapter of the story begins with the questionable choice to trust... Handsome Jack.': '这一章的故事，始于一个值得商榷的选择——去信任……帅杰克。',
+}
