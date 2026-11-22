@@ -1,5 +1,5 @@
 import importlib.util, os, re, sys
-ROOT = '/home/deck/Downloads/archives/翻译工程'
+ROOT = '/home/deck/翻译工程'
 sys.path.insert(0, ROOT); os.chdir(ROOT)
 import landb
 spec = importlib.util.spec_from_file_location('t', os.path.join(ROOT, 'ttce.py'))
